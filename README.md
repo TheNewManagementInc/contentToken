@@ -1,0 +1,2 @@
+<h2>The blockchain can do more than NFT's></h2
+<p>This contract serve up a base64 from a token. With minified js you can use this to distribute content,serve html. Taking advantage of the DOM. JS and the document object model have reached a maturity level where it can do anything actual apps can do. Cobined with better security in modern browsers this means you no longer need a webserver or cdn. YOu can store in the token itself the content, and resources for an nft or dapp project. 
